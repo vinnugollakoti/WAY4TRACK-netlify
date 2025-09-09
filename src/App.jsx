@@ -1,10 +1,10 @@
 import "./App.css"
-import Bike from "./Components/Bike"
+import Theme1 from "./Components/Theme1"
 
 const App = () => {
   return (
     <div>
-      <Bike />
+      <Theme1 />
     </div>
   )
 }
